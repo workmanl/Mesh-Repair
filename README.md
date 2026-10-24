@@ -1,38 +1,18 @@
-Fix broken 3D print files in seconds. MeshRepair is the native Mac app for diagnosing and repairing STL and OBJ meshes — no cloud, no subscription, no hassle.
+# MeshRepair
 
-DIAGNOSE INSTANTLY
-Drop any STL or OBJ file onto MeshRepair and get an instant health report. See exactly what's wrong: non-manifold edges, holes, flipped normals, degenerate triangles, and duplicates — all color-coded in the 3D viewport.
+Diagnose and repair STL and OBJ files for 3D printing on your Mac.
 
-ONE-CLICK REPAIR
-Auto-Repair fixes most issues instantly. For stubborn meshes, Voxel Remesh guarantees a manifold, watertight output every time — mathematically proven. No more slicer errors.
+MeshRepair is a native Mac app that inspects STL and OBJ meshes for geometry errors and repairs them for 3D printing without cloud uploads. It is built for 3D printing hobbyists, makers, and designers who want to fix non-manifold edges, holes, and normals before slicing. Free to download. Optional one-time Pro Unlock, $9.99.
 
-POWERFUL TOOLS
-• Auto-Repair — one-click fix for common issues
-• Voxel Remesh — guaranteed manifold output via Marching Cubes
-• Fix Normals — orient all faces outward
-• Fill Holes — close open boundaries
-• Merge Vertices — weld close points
-• Plane Cut — slice meshes in half
-• Hollow Shell — save material on large prints
-• Smooth / Relax — reduce surface noise
-• Simplify — reduce triangle count (75%, 50%, 25%)
-• Rotate — 90° rotation on X, Y, Z axes
-• Align to Print Bed — orient for optimal printing
-• Scale to Build Plate — fit your printer's volume
-• Remove Noise Shells — delete floating debris
-• Center on Origin — zero the model
+<img src="docs/assets/shot-1.webp" alt="MeshRepair screenshot 1" width="520">
+<img src="docs/assets/shot-2.webp" alt="MeshRepair screenshot 2" width="520">
 
-3D VIEWPORT
-Interactive SceneKit viewer with orbit, pan, zoom. Solid, wireframe, and solid+wire view modes. Non-manifold edges highlighted in red, holes in blue.
+- Website: https://workmanl.github.io/Mesh-Repair/
+- Mac App Store: https://apps.apple.com/us/app/meshrepair/id6761517548
+- Support: https://github.com/workmanl/Mesh-Repair/issues
+- Email: hello@emrldlabs.com
+- Privacy: https://workmanl.github.io/Mesh-Repair/privacy.html
 
-MESH STATISTICS
-Triangle count, vertex count, dimensions in mm, volume in cm³, surface area in cm². Everything you need before sending to your slicer.
+## About this repository
 
-IMPORT / EXPORT
-• Import: STL (binary + ASCII auto-detect), OBJ
-• Export: STL binary (manifold guaranteed with Pro)
-
-SIMPLE PRICING
-3 free exports to try everything. $9.99 one-time Pro unlock for unlimited exports. No subscription. No account required.
-
-Built for Mac with 100% Apple-native technology. No external dependencies. No cloud processing. Your files never leave your Mac.
+The app's source code is not public. This repository is used for support: please open an issue for bug reports and questions.
