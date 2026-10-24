@@ -7,7 +7,7 @@ MeshRepair is a native Mac app that inspects STL and OBJ meshes for geometry err
 <img src="docs/assets/shot-1.webp" alt="MeshRepair screenshot 1" width="520">
 <img src="docs/assets/shot-2.webp" alt="MeshRepair screenshot 2" width="520">
 
-- Website: https://workmanl.github.io/Mesh-Repair/
+- Website: https://emrldlabs.com/apps/meshrepair/
 - Mac App Store: https://apps.apple.com/us/app/meshrepair/id6761517548
 - Support: https://github.com/workmanl/Mesh-Repair/issues
 - Email: hello@emrldlabs.com
